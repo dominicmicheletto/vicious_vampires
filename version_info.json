@@ -1,4 +1,7 @@
 {
   "mod_version": [3, 0, 0],
-  "game_version": [1, 65, 77]
+  "game_version": [
+    [1, 65, 70],
+    [1, 65, 77]
+  ]
 }
